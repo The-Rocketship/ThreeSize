@@ -4,6 +4,12 @@
 
 It provides a dark-mode TreeSize-like graphical user interface to scan directories, inspect folder hierarchy disk usage, visualize relative storage distribution with progress bars, and quickly manage heavy files directly from the app.
 
+![PSRegEdit Dark Theme](https://img.shields.io/badge/PowerShell-5.1%2B%20%7C%207%2B-blue?logo=powershell)
+![Platform](https://img.shields.io/badge/Platform-Windows-007ACC?logo=windows)
+![Theme](https://img.shields.io/badge/Theme-Native%20Dark-181818)
+
+![ThreeSize Preview](Preview.png)
+
 ---
 
 ## 🌟 Key Features
